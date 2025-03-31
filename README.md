@@ -9,4 +9,7 @@ I mostly work on the following stacks:
 - NodeJS
 - TailwindCSS
 
-Most of my repositories are set to private, but in case you'd like to know more about what I do for a living, feel free to ask!
+Most of my repositories are set to private, but in case you'd like to know more about what I do for a living, feel free to ask! But you can still check what are my most used languages 👇
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisValentin)](https://github.com/anuraghazra/github-readme-stats)
