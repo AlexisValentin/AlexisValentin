@@ -8,6 +8,7 @@ I mostly work on the following stacks:
 - NextJS
 - NodeJS
 - TailwindCSS
+- SvelteJS
 
 Most of my repositories are set to private, but in case you'd like to know more about what I do for a living, feel free to ask! But you can still check what are my most used languages 👇
 
